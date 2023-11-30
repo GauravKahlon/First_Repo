@@ -1,1 +1,2 @@
-This is my First Repo.s
+This is my First Repo.
+I did my first push.
